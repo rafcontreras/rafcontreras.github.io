@@ -1,0 +1,7 @@
+/* purgecss start ignore */
+@import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
+/* purgecss end ignore */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
